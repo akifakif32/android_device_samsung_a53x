@@ -1,5 +1,5 @@
 #
-# Copyright (C) The LineageOS Project
+# Copyright (C) The Infinity-X Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -18,11 +18,18 @@
 $(call inherit-product, device/samsung/a53x/device.mk)
 
 # Inherit some common Lineage stuff
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/infinity/config/common_full_phone.mk)
+
+# Infinity-X Specific Flags
+INFINITY_BUILD_TYPE := UNOFFICIAL
+INFINITY_MAINTAINER := "akif"
+TARGET_BOOT_ANIMATION_RES := 1080
+WITH_GAPPS := true
+TARGET_SUPPORTS_BLUR := true
 
 # Device identifier, this must come after all inclusions
 PRODUCT_DEVICE := a53x
-PRODUCT_NAME := lineage_a53x
+PRODUCT_NAME := infinity_a53x
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A536B
 PRODUCT_MANUFACTURER := samsung
