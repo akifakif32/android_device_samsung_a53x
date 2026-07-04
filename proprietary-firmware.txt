@@ -59,7 +59,7 @@ tzsw.img_SM-A536N|9ab8359ac8b53e03bf91bad692d199e80963b694
 uh.bin_SM-A536N|260b2675991b26d08de70b659447f0c07e25becf
 
 # File containing the supported models, one per line
-models|bb556eb363236518d8e6dfc2ced279e20f740946
+models|a315149e837c4641df2be66ae1c90d694c5880b0
 
 # Files containing Samsung package version for supported models
 version_SC-53C|db93f19869cac1a8fdc21b12eadf778d59738c97
