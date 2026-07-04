@@ -16,29 +16,29 @@ vendor/firmware/AP_AUDIO_SLSI.bin:vendor/firmware/SM-A536B/AP_AUDIO_SLSI.bin
 vendor/firmware/calliope_sram.bin:vendor/firmware/SM-A536B/calliope_sram.bin
 vendor/firmware/vts.bin:vendor/firmware/SM-A536B/vts.bin
 
-# Audio - Firmware - from SC-53C - SC53COMU1DYF2
+# Audio - Firmware - from SC-53C - SC53COMS1EZE2
 vendor/firmware/SC-53C/APDV_AUDIO_SLSI.bin|e8892f1196ed93b721e6cb9c6bba02552d466b55
 vendor/firmware/SC-53C/AP_AUDIO_SLSI.bin|309cef90c601ecd22e9a0385903c7cd0fa7bba13
-vendor/firmware/SC-53C/calliope_sram.bin|7d466940fbff5ec0b70ffcd7d532d5090c92df09
-vendor/firmware/SC-53C/vts.bin|4f8a57488860266a027309624b124966cea9d206
+vendor/firmware/SC-53C/calliope_sram.bin|89ab7fe60b45685f4e1269890460a336706ce493
+vendor/firmware/SC-53C/vts.bin|d689a9576694ca46a12a6f063bb4ea2f7cc4e633
 
-# Audio - Firmware - from SM-A5360 - A5360ZHSHFYI1
+# Audio - Firmware - from SM-A5360 - A5360ZHSMGZE1
 vendor/firmware/SM-A5360/APDV_AUDIO_SLSI.bin|7ad048d9fc91ca814832cb7b898072d375c0468f
 vendor/firmware/SM-A5360/AP_AUDIO_SLSI.bin|6df646510e5b492f2c1f6987ccca3d9ac0827c31
-vendor/firmware/SM-A5360/calliope_sram.bin|67a53e9d2761b8604c01c51908bd1e4e508db261
-vendor/firmware/SM-A5360/vts.bin|9ea00ae3300741cb0e269c1065afd20b413813c8
+vendor/firmware/SM-A5360/calliope_sram.bin|c08418dd5b6c266b136e0d2f1f3e658f76475a77
+vendor/firmware/SM-A5360/vts.bin|3a04ddb1f5b12cd01d6b0b7c35a032a80c63adbe
 
-# Audio - Firmware - from SM-A536E - A536EXXSHFYI4
+# Audio - Firmware - from SM-A536E - A536EXXSMGZF1
 vendor/firmware/SM-A536E/APDV_AUDIO_SLSI.bin|cef9e0703e66f6558ed222418142c7f8a7de7427
 vendor/firmware/SM-A536E/AP_AUDIO_SLSI.bin|cfedf270210629341af3bd272ae72cc6bb29542e
-vendor/firmware/SM-A536E/calliope_sram.bin|98d0cc0e29ddede394415bbd669cc206ea0214aa
-vendor/firmware/SM-A536E/vts.bin|c1ab9a27059e780ecd54be0d563c88e0d0481234
+vendor/firmware/SM-A536E/calliope_sram.bin|c6d9b2b6579b5f12be34ee577450353356826043
+vendor/firmware/SM-A536E/vts.bin|39b3028ac47539eed244aa1ebc44dbe3272db904
 
-# Audio - Firmware - from SM-A536N - A536NKSSCFYH1
+# Audio - Firmware - from SM-A536N - A536NKSSHGZE2
 vendor/firmware/SM-A536N/APDV_AUDIO_SLSI.bin|2fc10a09e281798dd1a553342517b8a1b84d1f48
 vendor/firmware/SM-A536N/AP_AUDIO_SLSI.bin|438af04e62a75bb414fb843e3ce29eb979d5a634
-vendor/firmware/SM-A536N/calliope_sram.bin|360a3f31430908796533ed4eaef5598b66d4ae5c
-vendor/firmware/SM-A536N/vts.bin|4ccfc501ab09972c8f26c2581312770f7700b701
+vendor/firmware/SM-A536N/calliope_sram.bin|d90a08134c6f2b3476790b7bca6f072f9033f97b
+vendor/firmware/SM-A536N/vts.bin|9d945817ed0843d438c905670af1d95a53b65219
 
 # Audio - Firmware - Placeholders
 vendor/firmware/APDV_AUDIO_SLSI.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
