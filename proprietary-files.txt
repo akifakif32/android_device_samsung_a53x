@@ -116,38 +116,38 @@ vendor/firmware/NPU.bin:vendor/firmware/SM-A536B/NPU.bin
 vendor/firmware/mfc_fw.bin:vendor/firmware/SM-A536B/mfc_fw.bin
 vendor/firmware/os.checked.bin:vendor/firmware/SM-A536B/os.checked.bin
 
-# Firmware - from SC-53C - SC53COMU1DYF2
-vendor/firmware/SC-53C/NPU.bin|6bc0aea24d025ac61d76ed7b5f94d86b91ed6f20
-vendor/firmware/SC-53C/mfc_fw.bin|b941d65575720c61eb822266a323dff7d92cab42
-vendor/firmware/SC-53C/os.checked.bin|a6ce0b25502e9341d0ba6556617b7d95c6890db4
+# Firmware - from SC-53C - SC53COMS1EZE2
+vendor/firmware/SC-53C/NPU.bin|e118542b3e7cac71df384a3c4379bfd8d83bf576
+vendor/firmware/SC-53C/mfc_fw.bin|c9a4ec2b192552605b21fee286ad52873e7e7998
+vendor/firmware/SC-53C/os.checked.bin|4c25bcdb0a5778baaab69859062fa0f0809e37bd
 
-# Firmware - from SM-A5360 - A5360ZHSHFYI1
-vendor/firmware/SM-A5360/NPU.bin|01651a114bab50bf9c2f3e306999b93ad0481c95
-vendor/firmware/SM-A5360/mfc_fw.bin|67f8a23344898e873141136ae772c249718fad95
-vendor/firmware/SM-A5360/os.checked.bin|0d78e327518b45b87b170be723e612e56b66e69c
+# Firmware - from SM-A5360 - A5360ZHSMGZE1
+vendor/firmware/SM-A5360/NPU.bin|9c29904ac20d21b54484a6c9863647eaf962bbc7
+vendor/firmware/SM-A5360/mfc_fw.bin|d8fc60275001e75c3023f2fcaec4f66d3f91f1ed
+vendor/firmware/SM-A5360/os.checked.bin|7e279fc9718c9a89987353aae0f92916a0fa8c75
 
-# Firmware - from SM-A536E - A536EXXSHFYI4
-vendor/firmware/SM-A536E/NPU.bin|e6d287bcce573dfe7a7a62d98b4a351a067609ff
-vendor/firmware/SM-A536E/mfc_fw.bin|ba1620458b61fcdaa509079e9c6abd5280668501
-vendor/firmware/SM-A536E/os.checked.bin|3539f16548e01ff06da39976fc6e3ba5174de41c
+# Firmware - from SM-A536E - A536EXXSMGZF1
+vendor/firmware/SM-A536E/NPU.bin|28002bb77adce8519038f294c5efc17c0c4b693d
+vendor/firmware/SM-A536E/mfc_fw.bin|33c3392b1c47eb738a3def87af06ef238305d7b4
+vendor/firmware/SM-A536E/os.checked.bin|5c4984dd531b5bcbc9b31b36c1846cf49eba560e
 
-# Firmware - from SM-A536N - A536NKSSCFYH1
-vendor/firmware/SM-A536N/NPU.bin|85d57443db8a9bfa37bccdc9b485b8214a95950c
-vendor/firmware/SM-A536N/mfc_fw.bin|0baedb5a017b2425bbfbbc1f9513dbf777786343
-vendor/firmware/SM-A536N/os.checked.bin|d09bf28af31a12a3f07cfefb3b20a762d23b79b3
+# Firmware - from SM-A536N - A536NKSSHGZE2
+vendor/firmware/SM-A536N/NPU.bin|7bb4ea760d30dd97d51a31ee140f15950bcfb534
+vendor/firmware/SM-A536N/mfc_fw.bin|ed89dd54098d0c7186458e0401157bfab9dcd738
+vendor/firmware/SM-A536N/os.checked.bin|e512e78b1f460afd6fb18edb9be4f3a40ce81c15
 
 # Firmware - Placeholders
 vendor/firmware/NPU.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
 vendor/firmware/mfc_fw.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
 vendor/firmware/os.checked.bin|da39a3ee5e6b4b0d3255bfef95601890afd80709
 
-# NFC - from SC-53C - SC53COMU1DYF2
+# NFC - from SC-53C - SC53COMS1EZE2
 vendor/bin/hw/nxp.android.hardware.nfc@1.2-service|abc05f02698f23b207d8740566c35ce9fc71535c
 vendor/etc/init/nxp.android.hardware.nfc@1.2-service.rc|5ea26a6c13ccf810c52c4cc4a3518c14fe065fbe
-vendor/lib64/nfc_nci_nxpsn.so|5e160be9cc376d72b04f5a1af8d42d4669531892|d9454ca31024acb10cbcb06463483df14b0041f8
+vendor/lib64/nfc_nci_nxpsn.so|8e8c634deace27b3280833885d7adf8e643956a7|38f6eb373080aa66a9e7686f6c90bee93719c64c
 vendor/lib64/vendor.samsung.hardware.nfc@2.0.so|256d71fb4817aa9ec9eaa77e768a0538ac77916a
 
-# NFC - Firmware - from SC-53C - SC53COMU1DYF2
+# NFC - Firmware - from SC-53C - SC53COMS1EZE2
 vendor/firmware/SC-53C/nfc/libsn100u_fw.so|3f2e06db925881ef846e93b39d2d5563ad8e0995
 
 # Ramdisk - Firmware
