@@ -28,7 +28,7 @@ DEVICE_PATH := device/samsung/a53x
 # Audio - Configuration
 PRODUCT_PACKAGES += mixer_paths.xml
 
-$(call soong_config_set,s5e8825,soundbooster_dsp_library,//vendor/samsung/a53x:lib_SoundBooster_ver1100)
+$(call soong_config_set,samsungAudioVars,soundbooster_dsp_library,//vendor/samsung/a53x:lib_SoundBooster_ver1100)
 
 # Fingerprint - Sensor
 PRODUCT_PACKAGES += sensors.samsung
