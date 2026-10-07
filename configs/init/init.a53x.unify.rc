@@ -84,3 +84,12 @@ on property:ro.vendor.nfc.feature.chipname=NXP
 
 on property:ro.vendor.nfc.feature.chipname=SLSI
     start nfc_hal_service
+
+on init
+    # Fingerprint
+    write /sys/class/lcd/panel/mask_brightness 486
+
+on boot
+    # Fingerprint
+    chmod 0660 /dev/goodix_fp
+    chown system system /dev/goodix_fp
